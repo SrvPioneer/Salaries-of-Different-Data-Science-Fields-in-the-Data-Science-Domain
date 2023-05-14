@@ -55,5 +55,25 @@ Overall, the approach in Excel for this project is involve a combination of data
 # DASHBOARD OF THE PROJECT:
 
 ![image](https://github.com/SrvPioneer/Salaries-of-Different-Data-Science-Fields-in-the-Data-Science-Domain/assets/93809665/2ceb61c6-e820-41b4-a2a2-bb7f054929d1)
+
+# RESULT:
+
+The results of this project are:
+* Research Scientist, Applied Machine Learning Scientist, Data Analyst and AI Scientist are most highest paid job role in data science domain for the year of 2020, 2021, 2022, 2023 
+with amount in USD 450000, 423000, 430967, 423834.
+* Data Science Consultant, Power BI Developer, NLP Engineer and Autonomous Vehicle Technician are most lowest paid job role in data science domain for the year of 2020, 2021, 2022, 2023 with amount in USD 5707, 5409, 5132, 7000.
+* Director of Data Science, Cloud Data Architect, Data Analytics Lead and Director of Data Science are most highest average paid job role in data science domain for the year of 2020, 2021, 2022, 2023 with amount in USD 325000, 250000, 405000, 242729.
+* Machine Learning Engineer, Machine Learning Scientist, AI Developer and Research Scientist are maximum paid salary based on experience level for the year of 2020, 2021, 2022, 2023 with the amount in USD 250000, 225000, 300000, 220000.
+* Data Science Consultant, Power BI Developer, BI Data Analyst and Autonomous Vehicle Technician are minimum paid salary based on experience level for the year of 2020, 2021, 2022, 2023 with the amount in USD 5707, 5409, 6270, 7000.
+* Machine Learning Engineer, Machine Learning Scientist, AI Developer and Computer Vision Engineer are maximum average paid salary based on experience level for the year of 2020, 2021, 2022, 2023 with the amount in USD194000, 225000, 153152, 220000.
+* US, GB(United Kingdom of Great Britain and Northern Ireland) and IL(Israel) are highest paid country for data science domain.
+* PK, NG (Nigeria) and HN (Honduras) are lowest paid country for data science domain.
+* Mid size company is the highest paid company for Research Scientist and larger size company is the highest paid company size for overall.
+* US is the only country that provied maximum remote work.
+
+Overall, the goal of this project is to provide valuable insights and recommendations for those in the data science industry regarding salaries and related factors. The results of the analysis can help employers attract and retain top talent, and can help employees negotiate salaries and advance their careers.
+
+# Conclusion:
+This project provided valuable insights and recommendations for those in the data science industry regarding salaries and related factors. By applying the findings of this analysis, employers and employees can make informed decisions about salary negotiations, career development, and talent retention, which can ultimately benefit both individuals and organizations.
 					
 														
