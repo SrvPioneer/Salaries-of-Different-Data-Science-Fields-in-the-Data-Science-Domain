@@ -39,6 +39,9 @@ Data Science Job Salaries Dataset contains 11 columns, each are:
 * remote_ratio: The overall amount of work done remotely.
 * company_location: The country of the employer's main office or contracting branch.
 * company_size: The median number of people that worked for the company during the year.
+
+# DASHBOARD OF THE PROJECT:
+
 ![image](https://github.com/SrvPioneer/Salaries-of-Different-Data-Science-Fields-in-the-Data-Science-Domain/assets/93809665/2ceb61c6-e820-41b4-a2a2-bb7f054929d1)
 					
 														
