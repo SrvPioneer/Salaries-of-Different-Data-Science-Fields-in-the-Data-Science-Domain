@@ -42,4 +42,3 @@ Data Science Job Salaries Dataset contains 11 columns, each are:
 
 ![image10](								Dashboard of salary in different data science domain						
 														
-![image](https://github.com/SrvPioneer/Salaries-of-Different-Data-Science-Fields-in-the-Data-Science-Domain/assets/93809665/7d0ebd19-5f78-4afc-af99-91d5db160d6d)
