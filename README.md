@@ -40,6 +40,18 @@ Data Science Job Salaries Dataset contains 11 columns, each are:
 * company_location: The country of the employer's main office or contracting branch.
 * company_size: The median number of people that worked for the company during the year.
 
+# APPROACH:
+
+The step of the approach:
+
+* Data collection: Collected data from kaggle and convert it into excel format.
+* Data cleaning and preparation: Removed duplicates and transformed data into a format that can be analyzed.
+* Exploratory data analysis: Through Excel's charts and pivot tables to explored the data and identify patterns and trends. created bar chart, line and area chart.
+* Feature selection and engineering: Based on the insights gained from EDA, selected the most important features that have the greatest impact on data science salaries.
+* Interpretation and reporting: Finally, interpret the results of the analysis and created reports that summarize the findings and recommendations. Use Excel's charts and graphs to   visualize the results and created professional-looking reports.
+
+Overall, the approach in Excel for this project is involve a combination of data cleaning and preparation, exploratory data analysis using charts and pivot tables, feature selection, interpretation and reporting using charts and graphs.
+
 # DASHBOARD OF THE PROJECT:
 
 ![image](https://github.com/SrvPioneer/Salaries-of-Different-Data-Science-Fields-in-the-Data-Science-Domain/assets/93809665/2ceb61c6-e820-41b4-a2a2-bb7f054929d1)
